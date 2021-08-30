@@ -73,9 +73,11 @@ a {
 
 - <i class="fa fa-envelope"></i> gurkangulsah@gmail.com
 - <i class="fas fa-link"></i> [gulsahgurkan.netlify.app](https://gulsahgurkan.netlify.app/)
-- <i class="fa fa-twitter"></i> [\@GulsahGurkan_](https://twitter.com/GulsahGurkan_)
 - <i class="fa fa-github"></i> [\@Gulsah-G](https://github.com/Gulsah-G)
 - <i class="fa fa-linkedin"></i> [\@gurkangulsah](https://www.linkedin.com/in/gurkangulsah/)
+- <i class="fa fa-twitter"></i> [\@GulsahGurkan_](https://twitter.com/GulsahGurkan_)
+
+
 
 
 &nbsp; 
@@ -124,6 +126,7 @@ Chestnut Hill, MA
 2021
 
 Dissertation: "From OLS to Multilevel Multidimensional Mixture IRT: A Model Refinement Approach to Investigating Patterns of Relationships in PISA 2012 Data"
+
 Committee: Henry Braun (chair), Matthias von Davier, Michael Martin, Zhushan Li
 
 
