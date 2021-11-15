@@ -13,9 +13,9 @@ knit: pagedown::chrome_print
 
 ```{css, echo=FALSE}
 
-* {  
-  --pagedjs-margin-top: 1in;
-  --pagedjs-margin-bottom: 1in;
+* {
+  --pagedjs-margin-top: 0.5in;
+  --pagedjs-margin-bottom: 0.2in;
   --pagedjs-margin-right: 0.2in;
   --pagedjs-margin-left: 0.3in;
 }
@@ -23,9 +23,10 @@ knit: pagedown::chrome_print
 .pagedjs_page:not(:first-of-type) {
   --main-width: calc(var(--content-width) - var(--sidebar-width));
   --decorator-horizontal-margin: 0.2in;
-  --sidebar-width: 2rem;
+  --sidebar-width: 0.1rem;
   --sidebar-background-color: white;
 }
+
 
 :root {
   --sidebar-width: 12rem; 
@@ -34,6 +35,7 @@ knit: pagedown::chrome_print
   --decorator-outer-dim: 10px; 
   --decorator-border: 2px solid #1565c0;
 }
+
 .decorator::after {
   background-color: #bfbbbb;
 }
@@ -43,6 +45,7 @@ a {
 }
 
 .aside {
+  margin-top: 0.5in;
   line-height: 1.2;
   font-size: 0.75rem;
 }
@@ -62,6 +65,10 @@ a {
 .fa-file {
   margin-left: 2px;
   margin-top: 2px;
+}
+
+h1 {
+  text-transform: unset;
 }
 
 ```
@@ -88,16 +95,19 @@ a {
 
 - **Areas of Expertise:**
   - Quantitative methodology
-  - Psychometrics
   - Advanced statistical modeling
+  - Experimental design
+  - Causal inference
+  - Psychometrics
   - Survey design and research
-  - Evaluation research
   
   
 - **Computing:**
   - **Statistical:** R, SPSS Syntax, HLM, mdltm, LISREL, IRTPRO, WINSTEPS.
   - **Databases:** SQL, RMySQL, GitHub.
   - **Survey platforms:** Qualtrics, Google Forms.
+
+
 
 
 
@@ -154,9 +164,30 @@ Remote
 
 Present - March 2021
 
-- Conducting research projects to evaluate the efficacy of test preparation products on student outcomes and communicating recommendations for improvement.
-- Developing programming to automate data analysis and reporting procedures.
-- Providing expertise for advanced statistical modeling procedures and techniques used in quasi-experimental data analysis.
+- Leading and executing projects to evaluate the efficacy of online test preparation products on academic and career outcomes.
+- Building statistical models and communicating recommendations to product leaders for improvement.
+- Developing programming and documentation in R and R Markdown to automate data processing, analysis, and reporting procedures.
+- Providing expertise for research design and advanced statistical modeling techniques primarily used in quasi-experimental design.
+
+
+
+### Boston College
+
+_Graduate Statistical Consultant (Research Services)_
+
+Remote
+
+February 2021 - September 2020
+
+- Provided consultations and tutorials to faculty and students from various departments to support their statistical computing and quantitative research.
+- Assisted with selecting methodologies, planning and performing statistical data analysis, data management, and statistical computing.
+
+
+_Graduate Assistant (Institutional Research and Planning)_
+
+- Assisted with analysis and reporting of data from campus-wide surveys, which were used to monitor trends and provide feedback about various programs and campus issues.
+- Automated data cleaning and wrangling processes for annually published internal dashboards.
+
 
 
 ### uAspire
@@ -167,8 +198,8 @@ Remote
 
 September 2020 - July 2020
 
-- Worked on research projects to examine uAspire’s impact on college affordability and access and advance their learning for further program development and implementation.
-- Employed data from various sources such as NCES Common Core Data, conducted analyses, and presented research findings to diverse audiences.
+- Designed and executed research projects to examine the organization's impact on college affordability/access and advance their learning for further program development and implementation.
+- Employed data from multiple databases, conducted statistical analyses, and presented research findings to diverse audiences.
 
 
 ### Educational Testing Service
@@ -179,8 +210,25 @@ Princeton, NJ
 
 Summer 2020
 
-- Project: The investigation of alternative RMSD statistics for international large-scale assessments.
+- Proposed project: The investigation of alternative RMSD statistics for international large-scale assessments.
 -- _Canceled due to COVID-19._
+
+
+
+### Boston College
+_Research Assistant (Center for the Study of Testing, Evaluation, and Educational Policy)_
+
+Chestnut Hill, MA
+
+July 2020 - September 2015
+
+- Conducted quasi-experimental studies employing both longitudinal and cross-sectional data from complex survey design studies.
+- Analyzed data using various procedures such as generalized linear models, multilevel models, cluster analysis, inverse probability weighting.
+- Conducted psychometric analyses to develop and validate instruments measuring both cognitive and non-cognitive constructs.
+- Automated data analysis and reporting procedures in R and R Markdown to be shared with stakeholders.
+- Assisted with organizing a 2.5-day conference and interactive workshop on the challenges with measuring hard-to-measure constructs.
+
+
 
 
 ### Kaplan Test Prep
@@ -191,7 +239,7 @@ New York, NY
 
 Summer 2019 
 
-- Conducted an empirical simulation study to evaluate feasibility and sustainability of automated test assembly methods to personalize online assessment products to each user’s needs in preparing for The Medical College Admission Test.
+- Conducted an empirical simulation study to examine the feasibility and sustainability of automated test assembly methods to personalize online assessment products to each user’s needs.
 - Developed an R package for automated test assembly ('[**ata**](https://cran.r-project.org/web/packages/ata/ata.pdf)' available on CRAN R repository).
 
 
@@ -203,8 +251,9 @@ New York, NY
 
 Summer 2018  
 
-- Built an MS Excel dashboard to communicate the impact of the Showcase Schools program to 45 superintendents and 9 Field Support Centers in New York City.
-- Contributed to the team’s ongoing work to refine the program logic model and evaluation studies.
+- Built a dashboard to communicate the impact of a professional development program to 45 superintendents and 9 Field Support Centers in New York City.
+- Developed visuals in R including mapping attendance data to geographically demonstrate the participation rates by NYC districts to be shared externally.
+- Contributed to the team’s ongoing work to refine the program logic model and design evaluation studies.
 
 
 ### Dublin City University
@@ -215,7 +264,7 @@ Dublin, Ireland
 
 Summer 2017  
 
-- Developed a scale measuring students’ physical and emotional well-being.
+- Developed and validated a scale measuring students’ physical and emotional well-being.
 - Conducted psychometric analyses employing factor analytic approaches and Rasch modeling.
 
 
@@ -228,11 +277,18 @@ Istanbul, Turkey
 June 2015 - June 2012
 
 - Coordinated measurement and evaluation studies to determine the effectiveness of more than 10 education programs across 30 cities in the underdeveloped provinces of Turkey.
+- Developed measurement tools such as student questionnaires, interview and observation protocols.
+- Collected, analyzed, and reported data for the purposes of organizational monitoring.
+- Devised research briefs and reports on various aspects of education policy issues in Turkey.
+- Represented the organization in “Volunteerism: Measuring Global Impact II” workshop that took place in June 2015 in Nairobi, Kenya. 
+
+
+
 
 
 ## Teaching Experience {data-icon=chalkboard-teacher}
 
-### Program of Psychometrics and Quantitative Psychology, Fordham University
+### Fordham University
 
 _Workshop Host_
 
@@ -243,72 +299,16 @@ February 2020
 - Automated Test Assembly in R (with Michael Chajewski)
 
 
-### Department of Measurement, Evaluation, Statistics, and Assessment, Boston College
+### Boston College
 
 _Teaching Assistant_
 
 Chestnut Hill, MA
 
-2019 - 2018
+May 2019 - September 2018
 
 - Multivariate Statistics (Instructor: Zhushan Li)
 - Psychometric Theory II – Item Response Theory (Instructor: Zhushan Li)
-
-
-## Research Experience {data-icon=university}
-
-### Research Services, Boston College
-
-_Graduate Statistical Consultant_
-
-Remote
-
-February 2021 - September 2020
-
-- Provided consultations and tutorials to faculty and students from various departments to support their statistical computing and quantitative research.
-- Assisted with selecting methodologies, planning and performing statistical data analysis, data management, and statistical computing.
-
-
-### Institutional Research and Planning, Boston College
-
-_Graduate Assistant_
-
-Remote
-
-February 2021 - September 2020
-
-- Assisted with analysis and reporting of data from campus-wide surveys, which were used to monitor trends and provide feedback about various programs and campus issues.
-- Automated data cleaning and wrangling processes for annually published internal dashboards.
-
-
-
-### Center for the Study of Testing, Evaluation, and Educational Policy, Boston College
-
-_Research Assistant_
-
-Chestnut Hill, MA
-
-2020 - 2016
-
-- Conducted quasi-experiemental studies employing both longitudinal and cross-sectional data from complex survey design studies.
-- Analyzed data using various procedures such as generalized linear models, multilevel models, cluster analysis, inverse probability weighting.
-- Conducted psychometric analyses to develop and validate measurement instruments.
-- Automated data analysis and reporting procedures to be shared with stakeholders.
-- Assisted with organizing a 2.5-day conference and interactive workshop on the challenges with measuring hard-to-measure constructs.
-
-
-### Department of Measurement, Evaluation, Statistics, and Assessment, Boston College
-
-_Graduate Research Assistant_
-
-Chestnut Hill, MA
-
-2016 - 2015
-
-- Developed and validated scales measuring both cognitive and non-cognitive constructs.
-- Conducted psychometric analyses including differential item functioning to validate measurement instruments.
-- Conducted interviews and think-alouds with participants of the studies.
-
 
 
 
@@ -380,6 +380,10 @@ N/A
 ```{css, echo=FALSE}
 [data-id="disclaimer"] {
   font-size: 0.7rem;
+}
+
+[data-id="disclaimer"] p {
+  margin-bottom: -0.5in;
 }
 
 # [data-id="skills"] {
