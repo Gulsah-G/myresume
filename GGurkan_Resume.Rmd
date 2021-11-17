@@ -81,8 +81,8 @@ h1 {
 - <i class="fa fa-envelope"></i> gurkangulsah@gmail.com
 - <i class="fas fa-link"></i> [gulsah-gurkan.com](https://www.gulsah-gurkan.com/)
 - <i class="fa fa-github"></i> [\@Gulsah-G](https://github.com/Gulsah-G)
-- <i class="fa fa-linkedin"></i> [\@gurkangulsah](https://www.linkedin.com/in/gurkangulsah/)
-- <i class="fa fa-twitter"></i> [\@GulsahGurkan_](https://twitter.com/GulsahGurkan_)
+- <i class="fa fa-linkedin"></i> [\@GurkanGulsah](https://www.linkedin.com/in/GurkanGulsah/)
+- <i class="fa fa-twitter"></i> [\@GulsahGurkan](https://twitter.com/GulsahGurkan)
 
 
 
