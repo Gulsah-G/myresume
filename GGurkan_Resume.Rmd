@@ -165,9 +165,10 @@ Remote
 Present - March 2021
 
 - Leading and executing projects to evaluate the efficacy of online test preparation products on academic and career outcomes.
-- Building statistical models and communicating recommendations to product leaders for improvement.
-- Developing programming and documentation in R and R Markdown to automate data processing, analysis, and reporting procedures.
-- Providing expertise for research design and advanced statistical modeling techniques primarily used in quasi-experimental design.
+- Building statistical models to analyze user behavior and communicating recommendations to product leaders for improvement.
+- Providing expertise for research design, psychometric analysis, and advanced statistical modeling.
+- Developing programming to automate and streamline data processing, analysis, reporting, and quality assurance procedures.
+
 
 
 
@@ -179,14 +180,14 @@ Remote
 
 February 2021 - September 2020
 
-- Provided consultations and tutorials to faculty and students from various departments to support their statistical computing and quantitative research.
-- Assisted with selecting methodologies, planning and performing statistical data analysis, data management, and statistical computing.
+- Offered consultations and tutorials to faculty and students from various departments to support their statistical computing and quantitative research.
+- Provided expertise for selecting methodologies, planning and performing quantitative data analysis, data management, and statistical computing.
 
 
 _Graduate Assistant (Institutional Research and Planning)_
 
-- Assisted with analysis and reporting of data from campus-wide surveys, which were used to monitor trends and provide feedback about various programs and campus issues.
-- Automated data cleaning and wrangling processes for annually published internal dashboards.
+- Analyzed data and reported findings from campus-wide surveys, which were used to monitor trends and provide feedback about various programs and campus issues.
+- Developed programming to automate and streamline data cleaning and wrangling processes for annually published internal dashboards.
 
 
 
@@ -223,9 +224,9 @@ Chestnut Hill, MA
 July 2020 - September 2015
 
 - Conducted quasi-experimental studies employing both longitudinal and cross-sectional data from complex survey design studies.
-- Analyzed data using various procedures such as generalized linear models, multilevel models, cluster analysis, inverse probability weighting.
+- Analyzed data using various procedures such as generalized linear models, multilevel models, cluster analysis, and inverse probability weighting.
 - Conducted psychometric analyses to develop and validate instruments measuring both cognitive and non-cognitive constructs.
-- Automated data analysis and reporting procedures in R and R Markdown to be shared with stakeholders.
+- Automated data analysis procedures and created parameterized reports in R and R Markdown to generate documentation to be shared with stakeholders.
 - Assisted with organizing a 2.5-day conference and interactive workshop on the challenges with measuring hard-to-measure constructs.
 
 
@@ -239,7 +240,7 @@ New York, NY
 
 Summer 2019 
 
-- Conducted an empirical simulation study to examine the feasibility and sustainability of automated test assembly methods to personalize online assessment products to each user’s needs.
+- Conducted an empirical simulation study and examined the feasibility and sustainability of automated test assembly methods to create user-tailored assessment products.
 - Developed an R package for automated test assembly ('[**ata**](https://cran.r-project.org/web/packages/ata/ata.pdf)' available on CRAN R repository).
 
 
@@ -252,7 +253,7 @@ New York, NY
 Summer 2018  
 
 - Built a dashboard to communicate the impact of a professional development program to 45 superintendents and 9 Field Support Centers in New York City.
-- Developed visuals in R including mapping attendance data to geographically demonstrate the participation rates by NYC districts to be shared externally.
+- Developed visuals in R to be shared externally, including using spatial data to geographically demonstrate the participation rates in NYC districts.
 - Contributed to the team’s ongoing work to refine the program logic model and design evaluation studies.
 
 
