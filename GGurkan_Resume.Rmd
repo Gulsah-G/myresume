@@ -93,7 +93,7 @@ h1 {
 
 ### Skills {#skills}
 
-- **Areas of Expertise:**
+- **Areas of Expertise**
   - Quantitative methodology
   - Advanced statistical modeling
   - Experimental design
@@ -102,10 +102,11 @@ h1 {
   - Survey design and research
   
   
-- **Computing:**
-  - **Statistical:** R, SPSS Syntax, HLM, mdltm, LISREL, IRTPRO, WINSTEPS.
-  - **Databases:** SQL, RMySQL, GitHub.
-  - **Survey platforms:** Qualtrics, Google Forms.
+- **Computing**
+  - Programming: R, SQL
+  - Statistical/Specialized: SPSS Syntax, HLM, IRTPRO, WINSTEPS, LISREL, mdltm
+  - Typesetting: Markdown
+  
 
 
 
