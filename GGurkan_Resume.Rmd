@@ -123,7 +123,7 @@ Last updated on `r Sys.Date()`.
 
 ## Gulsah Gurkan {#title}
 
-### Applied Statistician | Psychometrician | Data Scientist
+### Applied Statistician | Data Scientist | Psychometrician
 
 
 ## Education {data-icon=graduation-cap}
