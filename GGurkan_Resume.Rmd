@@ -103,7 +103,7 @@ h1 {
   
   
 - **Computing**
-  - Programming: R, SQL
+  - Programming: R, Python, SQL
   - Statistical/Specialized: SPSS Syntax, HLM, IRTPRO, WINSTEPS, LISREL, mdltm
   - Typesetting: Markdown
   
@@ -159,7 +159,7 @@ Istanbul, Turkey
 
 ### Kaplan North America
 
-_Psychometrician_
+_Psychometrician/Research Scientist_
 
 Remote
 
