@@ -17,7 +17,7 @@ knit: pagedown::chrome_print
   --pagedjs-margin-top: 0.7in;
   --pagedjs-margin-bottom: 0.5in;
   --pagedjs-margin-right: 0.2in;
-  --pagedjs-margin-left: 0.3in;
+  --pagedjs-margin-left: 0.1in;
 }
 
 .pagedjs_page:not(:first-of-type) {
@@ -29,7 +29,7 @@ knit: pagedown::chrome_print
 
 
 :root {
-  --sidebar-width: 12rem; 
+  --sidebar-width: 10rem; 
   --sidebar-background-color: #F7F7F7;
   --sidebar-horizontal-padding: 0.01in; 
   --decorator-outer-dim: 10px; 
@@ -47,7 +47,7 @@ a {
 .aside {
   margin-top: 0.5in;
   line-height: 1.2;
-  font-size: 0.75rem;
+  font-size: 8.5pt;
 }
 
 .blocks {
@@ -70,7 +70,6 @@ a {
 h1 {
   text-transform: unset;
 }
-
 ```
 
 
@@ -104,7 +103,7 @@ h1 {
   
 - **Computing**
   - Programming: R, Python, SQL
-  - Statistical/Specialized: SPSS Syntax, HLM, IRTPRO, WINSTEPS, LISREL, mdltm
+  - Statistical/Specialized: SPSS Syntax, HLM, IRTPRO, WINSTEPS, LISREL
   - Typesetting: Markdown
   
 
@@ -183,10 +182,6 @@ February 2021 - September 2020
 
 - Offered consultations and tutorials to faculty and students from various departments to support their statistical computing and quantitative research.
 - Provided expertise for selecting methodologies, planning and performing quantitative data analysis, data management, and statistical computing.
-
-
-_Graduate Assistant (Institutional Research and Planning)_
-
 - Analyzed data and reported findings from campus-wide surveys, which were used to monitor trends and provide feedback about various programs and campus issues.
 - Developed programming to automate and streamline data cleaning and wrangling processes for annually published internal dashboards.
 
@@ -228,7 +223,7 @@ July 2020 - September 2015
 - Analyzed data using various procedures such as generalized linear models, multilevel models, cluster analysis, and inverse probability weighting.
 - Conducted psychometric analyses to develop and validate instruments measuring both cognitive and non-cognitive constructs.
 - Automated data analysis procedures and created parameterized reports in R and R Markdown to generate documentation to be shared with stakeholders.
-- Assisted with organizing a 2.5-day conference and interactive workshop on the challenges with measuring hard-to-measure constructs.
+- Served as a teaching assistant for PhD level courses Multivariate Statistics and Psychometric Theory II – Item Response Theory.
 
 
 
@@ -243,6 +238,7 @@ Summer 2019
 
 - Conducted an empirical simulation study and examined the feasibility and sustainability of automated test assembly methods to create user-tailored assessment products.
 - Developed an R package for automated test assembly ('[**ata**](https://cran.r-project.org/web/packages/ata/ata.pdf)' available on CRAN R repository).
+- Hosted a one-day workshop for Fordham University faculty and students on automated test assembly and R ata package.
 
 
 ### New York City Department of Education
@@ -255,7 +251,6 @@ Summer 2018
 
 - Built a dashboard to communicate the impact of a professional development program to 45 superintendents and 9 Field Support Centers in New York City.
 - Developed visuals in R to be shared externally, including using spatial data to geographically demonstrate the participation rates in NYC districts.
-- Contributed to the team’s ongoing work to refine the program logic model and design evaluation studies.
 
 
 ### Dublin City University
@@ -278,39 +273,10 @@ Istanbul, Turkey
 
 June 2015 - June 2012
 
-- Coordinated measurement and evaluation studies to determine the effectiveness of more than 10 education programs across 30 cities in the underdeveloped provinces of Turkey.
-- Developed measurement tools such as student questionnaires, interview and observation protocols.
+- Coordinated and executed measurement and evaluation studies to determine the effectiveness of more than 10 education programs across 30 cities in the underdeveloped provinces of Turkey.
 - Collected, analyzed, and reported data for the purposes of organizational monitoring.
-- Devised research briefs and reports on various aspects of education policy issues in Turkey.
-- Represented the organization in “Volunteerism: Measuring Global Impact II” workshop that took place in June 2015 in Nairobi, Kenya. 
 
 
-
-
-
-## Teaching Experience {data-icon=chalkboard-teacher}
-
-### Fordham University
-
-_Workshop Host_
-
-New York, NY
-
-February 2020
-
-- Automated Test Assembly in R (with Michael Chajewski)
-
-
-### Boston College
-
-_Teaching Assistant_
-
-Chestnut Hill, MA
-
-May 2019 - September 2018
-
-- Multivariate Statistics (Instructor: Zhushan Li)
-- Psychometric Theory II – Item Response Theory (Instructor: Zhushan Li)
 
 
 
@@ -343,45 +309,16 @@ N/A
 
 ###
 
-**Gurkan, G.**, von Davier, M., Braun, H. (2020). On the cross-country heterogeneity of within-country bivariate relationships in international large-scale assessments: understanding, evaluating and adjusting for the contributions of measurement error and clustering. _Paper accepted to the 12th Conference of the International Test Commission, in Luxembourg City, Luxembourg_.
-
-N/A
-
-
-###
-
 **Gurkan, G.**, Chajewski, M. (2020). Exploring online assessment personalization via automated test assembly. _Paper accepted to the annual meeting of the National Council on Measurement in Education, in San Francisco, CA_.
 
 N/A
-
-
-###
-
-**Gurkan, G.** (2019). A multilevel modeling analysis to investigate the factors affecting Turkish students’ scientific literacy performance in PISA 2015. _Presentation given at the annual meeting of the New England Educational Research Organization, in Portsmouth, NH_.
-
-N/A
-
-
-###
-
-**Gurkan, G.**, Luna Bazaldua, D., & Braun, H. (2018). Testing dynamic complementarity in educational opportunities to accumulate relevant human capital. _Presentation given at the annual meeting of the National Council on Measurement in Education, in New York, NY_.
-
-N/A
-
-
-###
-
-**Gurkan, G.** (2017). Psychometric properties of Learning to Teach for Social Justice Practices scale. _Presentation given at the annual meeting of the New England Educational Research Organization, in Portsmouth, NH_.
-
-N/A
-
 
 #
 
 
 ```{css, echo=FALSE}
 [data-id="disclaimer"] {
-  font-size: 0.7rem;
+  font-size: 7.5pt;
 }
 
 [data-id="disclaimer"] p {
